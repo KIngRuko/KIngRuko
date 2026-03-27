@@ -15,6 +15,9 @@ I build editorial travel projects around places, local identity, and structured 
 - [pueblos-es-sample-data](https://github.com/KIngRuko/pueblos-es-sample-data)  
   Public sample dataset with 2 municipalities per Spanish province, published in CSV and JSON formats.
 
+- [aldeias-pt-sample-data](https://github.com/KIngRuko/aldeias-pt-sample-data)  
+  Public sample dataset with up to 2 Portuguese parishes per district or island unit, published in CSV and JSON formats.
+
 ## Focus
 
 - structured location data
